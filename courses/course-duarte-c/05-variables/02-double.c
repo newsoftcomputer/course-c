@@ -4,7 +4,7 @@
 int main() {
 
     // Double
-    // By printer using %lf 
+    // By printer using %lf (Long float)
     
     double num01;
     num01 = 1.2;
@@ -17,5 +17,8 @@ int main() {
     num03 = 1.56;
     printf("Number double 03: %lf \n", num03);
 
-    printf("Date: %lf-%lf-%lf", num01, num02, num03);
+    printf("Numbers whit decimals 0: %lf - %lf - %lf \n", num01, num02, num03);
+
+    // I can %g to remove decimals
+    printf("Numbers whitout decimals 0: %g - %g - %g \n", num01, num02, num03);
 }
