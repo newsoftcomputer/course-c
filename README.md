@@ -1,2 +1,13 @@
-# course-c
-Course NC - C
+# COURSE C
+  
+  - Course NC - C
+
+## Courses
+
+## Examples
+
+## Exercises
+
+## Problems
+
+## Resources
